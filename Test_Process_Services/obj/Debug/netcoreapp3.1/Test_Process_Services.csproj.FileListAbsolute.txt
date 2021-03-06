@@ -1,0 +1,9 @@
+D:\Students Testing App\Test_Process_API\Test_Process_Services\bin\Debug\netcoreapp3.1\Test_Process_Services.deps.json
+D:\Students Testing App\Test_Process_API\Test_Process_Services\bin\Debug\netcoreapp3.1\Test_Process_Services.dll
+D:\Students Testing App\Test_Process_API\Test_Process_Services\bin\Debug\netcoreapp3.1\Test_Process_Services.pdb
+D:\Students Testing App\Test_Process_API\Test_Process_Services\obj\Debug\netcoreapp3.1\Test_Process_Services.csprojAssemblyReference.cache
+D:\Students Testing App\Test_Process_API\Test_Process_Services\obj\Debug\netcoreapp3.1\Test_Process_Services.AssemblyInfoInputs.cache
+D:\Students Testing App\Test_Process_API\Test_Process_Services\obj\Debug\netcoreapp3.1\Test_Process_Services.AssemblyInfo.cs
+D:\Students Testing App\Test_Process_API\Test_Process_Services\obj\Debug\netcoreapp3.1\Test_Process_Services.csproj.CoreCompileInputs.cache
+D:\Students Testing App\Test_Process_API\Test_Process_Services\obj\Debug\netcoreapp3.1\Test_Process_Services.dll
+D:\Students Testing App\Test_Process_API\Test_Process_Services\obj\Debug\netcoreapp3.1\Test_Process_Services.pdb
