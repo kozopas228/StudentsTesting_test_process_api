@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Test_Process_API.ViewModels;
 using Test_Process_Services.Interfaces;
 
 namespace Test_Process_API.Controllers
@@ -22,9 +23,9 @@ namespace Test_Process_API.Controllers
         }
 
         [HttpPost("CheckAnswer")]
-        public async Task<IActionResult> CheckAnswer(Guid testId, Guid questionId, Guid[] answersId)
+        public async Task<IActionResult> CheckAnswer([FromBody] CheckAnswerViewModel model)
         {
-            return new JsonResult(await _checkingAnswerService.Check(testId, questionId, answersId));
+            return new JsonResult(await _checkingAnswerService.Check(model.testId, model.questionId, model.answersId));
         }
 
         [HttpGet("MixQuestions")]

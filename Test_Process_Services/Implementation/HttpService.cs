@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Test_Process_Services.Interfaces;
 using Test_Process_Services.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace Test_Process_Services.Implementation
 {
@@ -13,10 +14,10 @@ namespace Test_Process_Services.Implementation
     {
         private HttpClient _httpClient;
         private string _apiEndpoint;
-        public HttpService()
+        public HttpService(IConfiguration configuration)
         {
             _httpClient = new HttpClient();
-            _apiEndpoint = "http://localhost:61017/api";
+            _apiEndpoint = configuration["ApiEndpoint"];
         }
 
         public async Task<ICollection<Answer>> GetAllAnswersAsync()
