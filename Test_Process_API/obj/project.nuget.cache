@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aQ+mzz17798+Td4kdvgxsbgV//3178bRZetmI2U+x0BKkYAL5Xgtr06HsOfzFI7jwLcjPyHDCc7xxLMas5adDQ==",
+  "dgSpecHash": "fL1RVz2MBRqsH2GA64gI3RBB4dPLKLE7cQaVCUmVkdvQZu0fv/BRzo3J0gZ7vIkbhlaqf00IkqGVrEHPKo100Q==",
   "success": true,
   "projectFilePath": "D:\\Students Testing App\\Test_Process_API\\Test_Process_API\\Test_Process_API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\CSharpSila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CSharpSila\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\CSharpSila\\.nuget\\packages\\newtonsoft.json\\8.0.3\\newtonsoft.json.8.0.3.nupkg.sha512",
