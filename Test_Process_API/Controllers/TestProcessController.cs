@@ -39,5 +39,12 @@ namespace Test_Process_API.Controllers
         {
             return Ok("congrats!");
         }
+
+        [HttpPatch("TestPatch")]
+        public IActionResult TestPatch()
+        {
+            return Ok();
+        }
+
     }
 }
