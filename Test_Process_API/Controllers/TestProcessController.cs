@@ -33,5 +33,11 @@ namespace Test_Process_API.Controllers
         {
             return new JsonResult(await _questionMixerService.MixQuestionsAsync(testId));
         }
+
+        [HttpGet("Test")]
+        public IActionResult Test(Guid testId)
+        {
+            return Ok("congrats!");
+        }
     }
 }
