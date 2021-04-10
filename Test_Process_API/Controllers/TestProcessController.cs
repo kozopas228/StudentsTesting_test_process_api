@@ -55,6 +55,11 @@ namespace Test_Process_API.Controllers
         {
             return Ok();
         }
+        [HttpPut("blablablabla2")]
+        public IActionResult Blablabla2()
+        {
+            return Ok();
+        }
 
     }
 }
