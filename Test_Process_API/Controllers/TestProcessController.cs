@@ -50,8 +50,8 @@ namespace Test_Process_API.Controllers
         {
             return Ok();
         }
-        [HttpPut("blablsssssssssssssssssssssssssssssssssssssssssssssssssssssssablabla")]
-        public IActionResult Blablablaasdoaiskdopasksssssssssssssssssssssssssssssssssssssssssdopaskopda()
+        [HttpPut("ahahahahahaahahahahahahaahahahahahahahahah")]
+        public IActionResult Blablablskopda()
         {
             return Ok();
         }
