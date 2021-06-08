@@ -55,6 +55,10 @@ namespace Test_Process_API.Controllers
         {
             return Ok();
         }
-
+        
+        [HttPut("Dungeon")]
+        public IActionResult Master(){
+        throw new Exception();
+        }
     }
 }
